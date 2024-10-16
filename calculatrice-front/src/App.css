@@ -1,0 +1,109 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+}
+
+.display {
+    margin-bottom: 20px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    font-size: 24px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.result {
+    font-size: 20px;
+    color: green;
+}
+
+.error {
+    font-size: 18px;
+    color: red;
+}
+
+.keyboard {
+    display: inline-block;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    margin: 5px 0;
+}
+
+button {
+    padding: 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+button:hover {
+    transform: scale(1.05);
+}
+
+.operator {
+    background-color: #f9c74f;
+    color: white;
+}
+
+.operator:hover {
+    background-color: #f9ca24;
+}
+
+.clear {
+    background-color: #f94144;
+    color: white;
+}
+
+.clear:hover {
+    background-color: #f3722c;
+}
+
+.equals {
+    background-color: #90be6d;
+    color: white;
+}
+
+.equals:hover {
+    background-color: #43aa8b;
+}
+
+.space {
+    background-color: #577590;
+    color: white;
+}
+
+.space:hover {
+    background-color: #4b8e8e;
+}
+
+.actions {
+    margin-top: 20px;
+}
+
+.actions button {
+    background-color: #277da1;
+    color: white;
+    padding: 10px 20px;
+}
+
+.actions button:hover {
+    background-color: #3a0ca3;
+}

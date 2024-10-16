@@ -1,0 +1,20 @@
+# Node modules (frontend)
+calculatrice-front/node_modules/
+calculatrice-front/build/
+calculatrice-front/dist/
+
+# Python (backend)
+calculatrice/__pycache__/
+calculatrice/*.py[cod]
+venv/
+env/
+
+# Docker
+volumes/
+docker-compose.override.yml
+
+# Logs
+*.log
+
+# Environnements
+.env
