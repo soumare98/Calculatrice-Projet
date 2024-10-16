@@ -54,4 +54,6 @@ Pour lancer le projet avec docker , taper :
 
 docker-compose up --build
 
+![image](https://github.com/user-attachments/assets/47fa0f64-e5a4-4f13-b522-92bbffa52c53)
+
 
