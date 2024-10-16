@@ -38,17 +38,27 @@ pgAdmin est inclus pour gérer votre base de données via une interface graphiqu
   ![alt text](image.png)
 
 ## 3 Configuration de l'environnement virtuel et installation des dépendances backend:
+
 ### Ecrire les commandes:
 cd Calculatrice
 python -m venv venv
 source venv\Scripts\activate
 pip install -r requirements.txt
 
+### L’API REST développée avec FastAPI
+![image](https://github.com/user-attachments/assets/0e62324a-0741-4417-9fb0-7095d9fbb4ce)
+
+### Le stockage des opérations et des résultats dans une base de données.
+![image](https://github.com/user-attachments/assets/053b9929-10cd-4295-b9b8-67574b4528be)
+
+### Une route permettant de télécharger les opérations sous format CSV.
+![image](https://github.com/user-attachments/assets/ed9ba43c-787c-436b-b233-7a98adfa9ea9)
+
 ## 4 Installation des dépendances frontend: 
 cd ../calculatrice-front
 npm install
 
-## 4 Exécution
+## 4 Exécution ,déploiement avec Docker et docker-compose.
 
 Pour lancer le projet avec docker , taper :
 
