@@ -27,7 +27,7 @@ La configuration de la base de données est gérée via le fichier `docker-compo
 
 ### Configuration de pgAdmin
 
-pgAdmin est inclus pour gérer votre base de données via une interface graphique conviviale
+pgAdmin est inclus pour gérer la base de données via une interface graphique conviviale
 
 - **Image** : `dpage/pgadmin4` 
 - **Ports** : 
@@ -60,7 +60,7 @@ npm install
 
 ## 4 Exécution ,déploiement avec Docker et docker-compose.
 
-Pour lancer le projet avec docker , taper :
+Pour lancer le projet avec docker , taper la commande :
 
 docker-compose up --build
 
