@@ -64,6 +64,13 @@ Pour lancer le projet avec docker , taper la commande :
 
 docker-compose up --build
 
+![image](https://github.com/user-attachments/assets/17fc3f32-d5e6-4fc4-b534-f66c18ba7948)
+
+
+![image](https://github.com/user-attachments/assets/deb9607e-0f4e-4259-a1b6-41d045d4a1e3)
+
+
+
 ![image](https://github.com/user-attachments/assets/47fa0f64-e5a4-4f13-b522-92bbffa52c53)
 
 
